@@ -2,8 +2,15 @@
 
 ## Title: Local HI Absorption towards the Magellanic Cloud foreground using ASKAP
 
+Arxiv: https://arxiv.org/pdf/2409.20311
+ADS: https://ui.adsabs.harvard.edu/abs/2024arXiv240920311N/abstract
+
 ## Abstract
 We present the largest Galactic neutral hydrogen HI absorption survey to date, utilizing the Australian SKA Pathfinder Telescope at an unprecedented spatial resolution of 30''. This survey, GASKAP-HI, unbiasedly targets 2,714 continuum background sources over 250 square degrees in the direction of the Magellanic Clouds, a significant increase compared to a total of 373 sources observed by previous Galactic absorption surveys across the entire Milky Way. We aim to investigate the physical properties of cold (CNM) and warm (WNM) neutral atomic gas in the Milky Way foreground, characterized by two prominent filaments at high Galactic latitudes (between $-45^{\circ}$ and $-25^{\circ}$). We detected strong HI absorption along 462 lines of sight above the 3$\sigma$ threshold, achieving an absorption detection rate of 17%. GASKAP-HI's unprecedented angular resolution allows for simultaneous absorption and emission measurements to sample almost the same gas clouds along a line of sight. A joint Gaussian decomposition is then applied to absorption-emission spectra to provide direct estimates of HI optical depths, temperatures, and column densities for the CNM and WNM components. The thermal properties of CNM components are consistent with those previously observed along a wide range of Solar neighborhood environments, indicating that cold HI properties are widely prevalent throughout the local interstellar medium. Across our region of interest, CNM accounts for ~30\% of the total HI gas, with the CNM fraction increasing with column density toward the two filaments. Our analysis reveals an anti-correlation between CNM temperature and its optical depth, which implies that CNM with lower optical depth leads to a higher temperature
+
+
+## Locations of sources
+![oscillating_charge](https://github.com/GASKAP/HI-Absorption/blob/master/MW_absorption/results/figures/all_src_locations.png)
 
 ## Authors
 Hiep Nguyen $^{1*}$, N. M. McClure-Griffiths $^{1}$, James Dempsey $^{1,2}$, John M. Dickey $^{3}$, Min-Young Lee $^{4}$,
